@@ -128,4 +128,5 @@ There are not look-aheads or look-behinds in our regex!
 
 Zoya (they/them) is a full-stack software developer in training who lives in Denver, Colorado
 
-You can find them on Github @zoyasarow
+You can find them on Github at [@zoyasarow
+](https://github.com/zoyasarow)
